@@ -89,7 +89,7 @@ curl -fsSL https://openclaw.ai/install.sh | bash
 
 📧 邮箱：support@open-claw.org
 
-📌 GitHub 仓库：[(https://github.com/Open-claw-org/open-claw.org))](https://github.com/Open-claw-org/open-claw.org)
+📌 GitHub 仓库：[(https://github.com/Open-claw-org/open-claw.org)](https://github.com/Open-claw-org/open-claw.org)
 
 ## 📄 License
 
